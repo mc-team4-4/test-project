@@ -1,3 +1,0 @@
-https://github.com/yhk4735/jsp.git
-
-https://github.com/mc-team4-4/test-project.git
